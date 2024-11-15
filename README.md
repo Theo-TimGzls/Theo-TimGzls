@@ -61,4 +61,4 @@
 <br>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Merci%20de%20votre%20visite%20💙&reversal=false&textBg=false&animation=twinkling&section=footer&descAlign=60&fontAlign=50&fontAlignY=60&fontSize=50"/>
-</p> 
+</p>
